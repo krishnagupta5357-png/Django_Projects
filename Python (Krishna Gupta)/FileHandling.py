@@ -1,0 +1,5 @@
+file = open("krishna.txt", "w")
+file.write("Hello, this is a test file.\n")
+file.write("This is a second line.\n")
+file.write("My name is Krishna")
+file.close()
